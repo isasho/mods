@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://bldstrkctls"]
+
+[ext_resource type="Texture2D" uid="uid://cv8ddnvhb5cc2" path="res://images/packed/card_portraits/bloodbinder/Blood_Strike.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(145, 74, 746, 562)

@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://opNad1PWq1t10"]
+
+[ext_resource type="Texture2D" uid="uid://pg1dnnmw4ngr" path="res://images/packed/card_portraits/bloodbinder/Life_Swap.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 1000, 613)

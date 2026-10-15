@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://b6isx3fuqkxk5"]
+
+[ext_resource type="Texture2D" uid="uid://b6isx3fuqkxk5" path="res://images/powers/loss_of_control_power.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 64, 64)

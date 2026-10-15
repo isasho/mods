@@ -1,0 +1,8 @@
+{
+  "OPTION_SACRIFICE_PAIN.name": "Sacrifice: Pain",
+  "OPTION_SACRIFICE_PAIN.description": "Permanently lose [blue]6[/blue] max HP.\nGain an additional [blue]2[/blue] [gold]Pain[/gold] at the start of each combat.",
+  "OPTION_SACRIFICE_BLEED.name": "Sacrifice: Bleed",
+  "OPTION_SACRIFICE_BLEED.description": "Permanently lose [blue]6[/blue] max HP.\nAttacks apply an additional [blue]3[/blue] [gold]Bleed[/gold].",
+  "OPTION_SACRIFICE_CRIT.name": "Sacrifice: Crit",
+  "OPTION_SACRIFICE_CRIT.description": "Permanently lose [blue]6[/blue] max HP.\nBase crit rate permanently +[blue]10%[/blue]."
+}

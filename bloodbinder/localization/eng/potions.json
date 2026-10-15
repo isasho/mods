@@ -1,0 +1,12 @@
+{
+  "BLEED_POTION.description": "Apply [blue]{Bleed}[/blue] [gold]Bleed[/gold].",
+  "BLEED_POTION.title": "Bleed Potion",
+  "SACRIFICE_POTION.description": "Lose [blue]{HpLoss}[/blue] HP and gain 2 Energy.",
+  "SACRIFICE_POTION.title": "Sacrifice Potion",
+  "CRIMSON_RAGE_POTION.description": "Gain [blue]{CrimsonRage}[/blue] [gold]Pain[/gold].",
+  "CRIMSON_RAGE_POTION.title": "Pain Potion",
+  "BLOOD_RESTORE_POTION.description": "Heal [green]{HealPercent}%[/green] of your max HP.",
+  "BLOOD_RESTORE_POTION.title": "Blood Restore",
+  "BLOOD_BURST_POTION.description": "Immediately detonate all [gold]Bleed[/gold] on ALL enemies.",
+  "BLOOD_BURST_POTION.title": "Blood Burst Potion"
+}

@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://xuqx7ju0llmm"]
+
+[ext_resource type="Texture2D" uid="uid://xuqx7ju0llmm" path="res://images/powers/crimson_aura_power.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 64, 64)

@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://blddsrpwr"]
+
+[ext_resource type="Texture2D" uid="uid://dh7j7ghtsthiy" path="res://images/powers/blood_desire_power.png" id="1_thes5"]
+
+[resource]
+atlas = ExtResource("1_thes5")
+region = Rect2(7, 8, 51, 55)

@@ -1,0 +1,16 @@
+{
+  "BLOODBINDER.aromaPrinciple": "[sine][red]Blood is power. Pain is a gift.[/red][/sine]",
+  "BLOODBINDER.banter.alive.endTurnPing": "Get on with it...",
+  "BLOODBINDER.banter.dead.endTurnPing": "...",
+  "BLOODBINDER.cardsModifierDescription": "The Bloodbinder’s cards can now appear in rewards and shops.",
+  "BLOODBINDER.cardsModifierTitle": "Bloodbinder Cards",
+  "BLOODBINDER.description": "A berserker who offers her blood as sacrifice, drawing strength from pain.\nHigh risk, high growth — spending life itself as a combat resource.",
+  "BLOODBINDER.eventDeathPrevention": "My blood debt is not yet repaid.",
+  "BLOODBINDER.goldMonologue": "[sine]Gold is cold; it has none of blood’s warmth...[/sine]",
+  "BLOODBINDER.possessiveAdjective": "her",
+  "BLOODBINDER.pronounObject": "her",
+  "BLOODBINDER.pronounPossessive": "hers",
+  "BLOODBINDER.pronounSubject": "she",
+  "BLOODBINDER.title": "The Bloodbinder",
+  "BLOODBINDER.titleObject": "The Bloodbinder"
+}

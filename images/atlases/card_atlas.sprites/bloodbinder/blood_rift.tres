@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://86av883oqukk"]
+
+[ext_resource type="Texture2D" uid="uid://cwap70xv7o5uv" path="res://images/packed/card_portraits/bloodbinder/Blood_Rift.png" id="1_fm5li"]
+
+[resource]
+atlas = ExtResource("1_fm5li")
+region = Rect2(0, 0, 606, 851)

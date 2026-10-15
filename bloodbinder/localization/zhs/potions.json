@@ -1,0 +1,12 @@
+{
+  "BLEED_POTION.description": "给予[blue]{Bleed}[/blue]点[gold]流血[/gold]。",
+  "BLEED_POTION.title": "流血药剂",
+  "SACRIFICE_POTION.description": "失去[blue]{HpLoss}[/blue]点生命，获得2点能量。",
+  "SACRIFICE_POTION.title": "献祭药剂",
+  "CRIMSON_RAGE_POTION.description": "获得[blue]{CrimsonRage}[/blue]点[gold]痛楚[/gold]。",
+  "CRIMSON_RAGE_POTION.title": "痛楚药剂",
+  "BLOOD_RESTORE_POTION.description": "回复你最大生命值的[green]{HealPercent}%[/green]。",
+  "BLOOD_RESTORE_POTION.title": "鲜血恢复剂",
+  "BLOOD_BURST_POTION.description": "立即引爆所有敌人身上的[gold]流血[/gold]层数。",
+  "BLOOD_BURST_POTION.title": "血爆药剂"
+}

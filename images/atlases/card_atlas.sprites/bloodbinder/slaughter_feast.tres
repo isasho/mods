@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://dwtm37cnjlix7"]
+
+[ext_resource type="Texture2D" uid="uid://dkdjkfjkjfnvg" path="res://images/packed/card_portraits/bloodbinder/Slaughter_Feast.png" id="1_4x44s"]
+
+[resource]
+atlas = ExtResource("1_4x44s")
+region = Rect2(0, 0, 1000, 760)

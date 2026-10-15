@@ -1,0 +1,8 @@
+{
+  "OPTION_SACRIFICE_PAIN.name": "献祭·痛楚",
+  "OPTION_SACRIFICE_PAIN.description": "永久失去[blue]6[/blue]点最大生命值。\n每场战斗开始额外获得[blue]2[/blue]层[gold]痛楚[/gold]。",
+  "OPTION_SACRIFICE_BLEED.name": "献祭·流血",
+  "OPTION_SACRIFICE_BLEED.description": "永久失去[blue]6[/blue]点最大生命值。\n攻击命中额外施加[blue]3[/blue]层[gold]流血[/gold]。",
+  "OPTION_SACRIFICE_CRIT.name": "献祭·暴击",
+  "OPTION_SACRIFICE_CRIT.description": "永久失去[blue]6[/blue]点最大生命值。\n基础暴击率永久+[blue]10%[/blue]。"
+}

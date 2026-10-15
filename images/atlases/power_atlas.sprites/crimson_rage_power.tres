@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://crimsonragpwr"]
+
+[ext_resource type="Texture2D" uid="uid://c8lnpw864p82p" path="res://images/powers/crimson_rage_power.png" id="1_y5504"]
+
+[resource]
+atlas = ExtResource("1_y5504")
+region = Rect2(-0.49954605, -0.8210249, 65.30617, 64.25283)

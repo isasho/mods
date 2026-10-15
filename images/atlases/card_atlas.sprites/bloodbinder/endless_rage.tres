@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://gi33MqPFoLvfw"]
+
+[ext_resource type="Texture2D" uid="uid://bkr2ltpkl2ndb" path="res://images/packed/card_portraits/bloodbinder/Endless_Rage.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 1000, 613)

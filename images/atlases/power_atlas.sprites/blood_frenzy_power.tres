@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://pr0aj26kuul3"]
+
+[ext_resource type="Texture2D" uid="uid://dy1yeo6km1v3l" path="res://images/powers/blood_frenzy_power.png" id="1_5d5ch"]
+
+[resource]
+atlas = ExtResource("1_5d5ch")
+region = Rect2(-0.49954605, -0.8210249, 65.30617, 64.25283)

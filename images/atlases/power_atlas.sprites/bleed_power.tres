@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://bleedpwr"]
+
+[ext_resource type="Texture2D" uid="uid://duq4p6cwy2l5m" path="res://images/powers/bleed_power.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(-0.49954605, -0.8210249, 65.30617, 64.25283)

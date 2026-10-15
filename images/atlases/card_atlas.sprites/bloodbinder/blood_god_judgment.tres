@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://ZUxpioh_G3Fbj"]
+
+[ext_resource type="Texture2D" uid="uid://bo306gioawj6r" path="res://images/packed/card_portraits/bloodbinder/Blood_God_Judgment.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 1000, 613)

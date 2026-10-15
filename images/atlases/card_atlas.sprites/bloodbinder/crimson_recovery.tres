@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://Up7v-iL3tNPDj"]
+
+[ext_resource type="Texture2D" uid="uid://8cbpm0m4h83k" path="res://images/packed/card_portraits/bloodbinder/Crimson_Recovery.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 1000, 613)

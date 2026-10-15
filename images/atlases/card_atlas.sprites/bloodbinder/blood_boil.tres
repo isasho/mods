@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://crymj28esy11e"]
+
+[ext_resource type="Texture2D" uid="uid://bmy34bming1yn" path="res://images/packed/card_portraits/bloodbinder/Blood_Boil.png" id="1_eclv4"]
+
+[resource]
+atlas = ExtResource("1_eclv4")
+region = Rect2(0, 0, 606, 851)

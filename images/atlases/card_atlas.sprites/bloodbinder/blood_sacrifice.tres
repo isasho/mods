@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://c20fh47rtrr8d"]
+
+[ext_resource type="Texture2D" uid="uid://d3xdljssksjwo" path="res://images/packed/card_portraits/bloodbinder/Blood_Sacrifice.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(100.07489, 32.979218, 792.6779, 561.3307)

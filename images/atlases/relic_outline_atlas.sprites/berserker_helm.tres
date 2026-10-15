@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://blucj8di4c3p6"]
+
+[ext_resource type="Texture2D" uid="uid://ca7oyl68k0qb" path="res://images/atlases/relic_outline_atlas.sprites/BerserkerHelm.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 256, 256)

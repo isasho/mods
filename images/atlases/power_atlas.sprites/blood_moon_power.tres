@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://gb7devynu8o"]
+
+[ext_resource type="Texture2D" uid="uid://gb7devynu8o" path="res://images/powers/blood_moon_power.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 64, 64)

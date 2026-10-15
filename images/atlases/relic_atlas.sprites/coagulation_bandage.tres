@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://d27nb8g0j6np5"]
+
+[ext_resource type="Texture2D" uid="uid://cuku581uphm2r" path="res://images/relics/coagulation_bandage.png" id="1"]
+
+[resource]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 256, 256)
