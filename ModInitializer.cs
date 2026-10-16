@@ -22,6 +22,7 @@ namespace sts2mod
 			AncientDialoguePatch.Apply(harmony);
 			CardDescriptionPatch.Apply(harmony);
 			CardKeywordHoverTipPatch.Apply(harmony);
+			BleedHealthBarPatch.Apply(harmony);
 			TouchOfOrobasPatch.Apply(harmony);
 			ArchaicToothPatch.Apply(harmony);
 			harmony.PatchAll();

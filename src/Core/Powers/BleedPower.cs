@@ -38,6 +38,21 @@ namespace sts2mod.Powers
 			}
 		}
 
+		// 下一回合开始时会造成的流血总伤害（供血条可视化使用）。
+		// 每次触发造成当前层数伤害，随后层数减半，与 AfterSideTurnStart 的实际结算逻辑一致。
+		public int CalculateTotalDamageNextTurn()
+		{
+			int total = 0;
+			int current = base.Amount;
+			int iterations = TriggerCount;
+			for (int i = 0; i < iterations && current > 0; i++)
+			{
+				total += current;
+				current /= 2;
+			}
+			return total;
+		}
+
 		public override async Task AfterSideTurnStart(CombatSide side, IReadOnlyList<Creature> creatures, ICombatState combatState)
 		{
 			if (side != base.Owner.Side)
