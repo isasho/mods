@@ -10,12 +10,12 @@ using System.Threading.Tasks;
 
 namespace sts2mod.Core
 {
-    // 暴击管理器 — 基础暴击率0%。痛楚+5%/层，血涌+25%/50%，嗜血狂乱双倍。暴击率上限500%。
+    // 暴击管理器 — 基础暴击率0%。痛楚+5%/层，血涌+25%/50%，嗜血狂乱双倍。暴击率无上限。
     public static class CritManager
     {
         public const int BaseCritRate = 0;
 
-        // 暴击伤害倍率：基础 50% 额外伤害；暴击率超过 100% 的部分继续累加（125%→1.75，500%→5.5）
+        // 暴击伤害倍率：基础 50% 额外伤害；暴击率超过 100% 的部分继续累加（125%→1.75，250%→3.0）
         public static decimal GetCritMultiplier(int critRate)
         {
             decimal bonus = 50m + Math.Max(0, critRate - 100);
