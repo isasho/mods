@@ -21,17 +21,28 @@ namespace sts2mod.Powers
         // 单张牌提供的失血量（2 未升级 / 1 升级），由打出时设置。
         public int HpLossPerCopy { get; set; } = 2;
 
+        // 下标显示每回合开始获得的能量数。
+        public override int DisplayAmount
+        {
+            get
+            {
+                int hpLossPerCopy = HpLossPerCopy > 0 ? HpLossPerCopy : 2;
+                return hpLossPerCopy > 0 ? (int)base.Amount / hpLossPerCopy : 0;
+            }
+        }
+
         protected override IEnumerable<DynamicVar> CanonicalVars => [
-            new DynamicVar("Energy", 1m)
+            new EnergyVar(1)
         ];
 
-        // 刷新描述变量（能量数），使其随同名牌数量实时更新。
+        // 刷新描述变量（能量数）和下标，使其随同名牌数量实时更新。
         public void RefreshDescription()
         {
             int hpLossPerCopy = HpLossPerCopy > 0 ? HpLossPerCopy : 2;
             int copies = hpLossPerCopy > 0 ? (int)base.Amount / hpLossPerCopy : 0;
 
             base.DynamicVars["Energy"].BaseValue = copies;
+            InvokeDisplayAmountChanged();
         }
 
         public override async Task AfterPlayerTurnStart(

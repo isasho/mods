@@ -26,7 +26,7 @@
   "BLOOD_FEAST_POWER.description": "At the start of your turn, heal [blue]3[/blue] HP.",
   "BLOOD_FEAST_POWER.smartDescription": "At the start of your turn, heal [blue]{Amount}[/blue] HP.",
   "BLOOD_FEAST_POWER.title": "Endless Feast",
-  "BLOOD_FOR_BLOOD_POWER.description": "At the start of your turn, lose [blue]2[/blue] HP and gain {Energy:energyIcons()}.",
+  "BLOOD_FOR_BLOOD_POWER.description": "At the start of your turn, lose [blue]2[/blue] HP and gain {energyPrefix:energyIcons(1)}.",
   "BLOOD_FOR_BLOOD_POWER.smartDescription": "At the start of your turn, lose [blue]{Amount}[/blue] HP and gain {Energy:energyIcons()}.",
   "BLOOD_FOR_BLOOD_POWER.title": "Blood for Blood",
   "BLOOD_GOD_ACOLYTE_POWER.description": "At the start of your turn, apply [blue]2[/blue] [gold]Bleed[/gold] to ALL enemies.",
