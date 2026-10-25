@@ -17,6 +17,8 @@ namespace sts2mod.Powers
 
         public override PowerStackType StackType => PowerStackType.Counter;
 
+        protected override bool IsVisibleInternal => false;
+
         public override async Task AfterDamageReceived(
             PlayerChoiceContext choiceContext,
             Creature target,

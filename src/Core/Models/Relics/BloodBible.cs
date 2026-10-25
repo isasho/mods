@@ -27,7 +27,7 @@ namespace sts2mod.Relics
         {
             if (target != base.Owner.Creature)
                 return;
-            if (result.TotalDamage <= 0)
+            if (result.UnblockedDamage <= 0)
                 return;
             Flash();
             await PowerCmd.Apply<CrimsonRagePower>(choiceContext, 

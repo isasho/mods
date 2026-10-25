@@ -26,7 +26,7 @@
   "BLOOD_FEAST_POWER.description": "在你的回合开始时，回复[blue]3[/blue]点生命。",
   "BLOOD_FEAST_POWER.smartDescription": "在你的回合开始时，回复[blue]{Amount}[/blue]点生命。",
   "BLOOD_FEAST_POWER.title": "血宴不息",
-  "BLOOD_FOR_BLOOD_POWER.description": "在你的回合开始时，失去[blue]2[/blue]点生命并获得{energyIcon}。",
+  "BLOOD_FOR_BLOOD_POWER.description": "在你的回合开始时，失去[blue]2[/blue]点生命并获得{Energy:energyIcons()}。",
   "BLOOD_FOR_BLOOD_POWER.smartDescription": "在你的回合开始时，失去[blue]{Amount}[/blue]点生命并获得{Energy:energyIcons()}。",
   "BLOOD_FOR_BLOOD_POWER.title": "以血易血",
   "BLOOD_GOD_ACOLYTE_POWER.description": "在你的回合开始时，对所有敌人施加[blue]2[/blue]层[gold]流血[/gold]。",
