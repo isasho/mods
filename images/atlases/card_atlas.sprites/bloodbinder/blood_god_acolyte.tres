@@ -1,7 +1,7 @@
-[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://S7qOae7PLtYjw"]
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://c4g643hfxiv0g"]
 
 [ext_resource type="Texture2D" uid="uid://b6t5lhhw2ldw" path="res://images/packed/card_portraits/bloodbinder/Blood_God_Acolyte.png" id="1"]
 
 [resource]
 atlas = ExtResource("1")
-region = Rect2(0, 0, 1000, 613)
+region = Rect2(0, 0, 1000, 835)
